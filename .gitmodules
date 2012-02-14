@@ -1,0 +1,9 @@
+[submodule "physiotoolkit-wrapper"]
+	path = physiotoolkit-wrapper
+	url = git@github.com:pangratz/physiotoolkit-wrapper.git
+[submodule "heartman-bluetooth-recorder"]
+	path = heartman-bluetooth-recorder
+	url = git@github.com:pangratz/heartman-bluetooth-recorder.git
+[submodule "ecg-analysis"]
+	path = ecg-analysis
+	url = git@github.com:pangratz/ecg-analysis.git
